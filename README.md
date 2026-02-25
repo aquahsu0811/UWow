@@ -181,7 +181,7 @@ type UserPayload = {
 
 將名單結合統計卡片與操作按鈕。讓管理員能一眼看出異常（如停權數激增），並直接在表格內執行「停權」或「更動」，提高處理違規或客訴的效率。
 
-![User Management](./public/User%20Management.png)
+![User Management](./public/User%20Management.png?v=2)
 
 ### User Favorites Management
 
